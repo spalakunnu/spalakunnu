@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam (@SJGeorge3108)
+- 👋 Hi, I’m Sam [(@SJGeorge3108)](https://github.com/SJGeorge3108)
 - 🏢 I'm currently a Software Engineer at [HutSix](https://www.hutsix.com.au/team96df2265)
 - 🦘 I'm based in the Northern Territory, Australia
 - 👀 I’m interested in Mountain Biking, Hiking, Flying and Cyber Security
