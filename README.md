@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam [(@SJGeorge3108)](https://github.com/SJGeorge3108)
-- 🏢 I'm currently a Software Engineer at [HutSix](https://www.hutsix.com.au/team96df2265)
+- 🏢 I'm currently a Software Engineer at [HutSix](https://www.hutsix.com.au/team)
 - 🦘 I'm based in the Northern Territory, Australia
 - 👀 I’m interested in Mountain Biking, Hiking, Flying and Cyber Security
 - 🌱 I’m currently learning and improving in: Angular, React, Symfony and Kali Linux
