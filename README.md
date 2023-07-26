@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sam [(@SJGeorge3108)](https://github.com/SJGeorge3108)
 - 🏢 I'm currently a Software Engineer at [HutSix](https://www.hutsix.com.au/team)
 - 🦘 I'm based in the Northern Territory, Australia
-- 👀 I’m interested in Mountain Biking, Hiking, Flying and Cyber Security
 - 🖥️ My current tech stack includes: Angular, React, PHP(Symfony framework), Java(Springboot) and Kali Linux
 - 💞️ I’m looking to collaborate on projects that help solve real world problems with software 😊
 - 📫 The best way to reach me is [Email](mailto:sam@palakunnu.com) or [LinkedIn](https://www.linkedin.com/in/sjgeorge3108/)
