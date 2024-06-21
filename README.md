@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam
-- 🏢 I'm currently a Software Engineer at [HutSix](https://www.hutsix.com.au/team)
+- 🏢 I'm currently an SRE at Atlassian.
 - 🦘 I'm based in the Northern Territory, Australia
-- 🖥️ My current tech stack includes: Angular, React, PHP(Symfony framework), Java(Springboot) and Kali Linux
-- 📫 The best way to reach me is [Email](mailto:sam@palakunnu.com) or [LinkedIn](https://www.linkedin.com/in/sjgeorge3108/)
+- 🖥️ My current tech stack includes: Java, Go, PHP and TypeScript
+- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/sjgeorge3108/)
